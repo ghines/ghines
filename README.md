@@ -7,7 +7,10 @@ I'm an old school IT veteran working on updating my skills to more modern and we
 
 ## Project List
 
-[Budgeting App](https://github.com/ghines/budgeting)
+- [Budgeting App](https://github.com/ghines/budgeting)
+- [Pomodoro Timer](https://github.com/ghines/pomodoro-timer)
+- [Todo App w/Timer](https://github.com/ghines/todo-timer-app)
+
 
 <!--
 Here are some ideas to get you started:
