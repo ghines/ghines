@@ -8,8 +8,11 @@ I'm an old school IT veteran working on updating my skills to more modern and we
 ## Project List
 
 - [Budgeting App](https://github.com/ghines/budgeting)
+    This is my main project. Right now, it's a very simple envelope budget tracker with Postgres + Express.js backend.
 - [Pomodoro Timer](https://github.com/ghines/pomodoro-timer)
+    Configurable Pomodoro time tracking. Works as a 25-minute timer out of the box, but can be configured for different time periods and paused/resumed.
 - [Todo App w/Timer](https://github.com/ghines/todo-timer-app)
+    Fun project made entirely by ChatGPT with some cleanup helped along by Copilot. 
 
 
 <!--
